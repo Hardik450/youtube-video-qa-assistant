@@ -93,3 +93,5 @@ Contributions, ideas, and feedback are welcome. Let’s build a better learning 
 This project is open-sourced under the [MIT License](LICENSE).
 
 ---
+
+Please give a star if you like it!
